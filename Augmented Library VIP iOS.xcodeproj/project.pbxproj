@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		413BBC2B28EE49DF0017B0AA /* Instructions for iOS.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 413BBC2A28EE49DF0017B0AA /* Instructions for iOS.rtf */; };
+		413BBC2D28EE4A880017B0AA /* Instructions for iOS 2.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 413BBC2C28EE4A880017B0AA /* Instructions for iOS 2.rtf */; };
 		41A5CFD628EE39FA00030ED0 /* Augmented_Library_VIP_iOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A5CFD528EE39FA00030ED0 /* Augmented_Library_VIP_iOSApp.swift */; };
 		41A5CFD828EE39FA00030ED0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41A5CFD728EE39FA00030ED0 /* ContentView.swift */; };
 		41A5CFDA28EE39FB00030ED0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41A5CFD928EE39FB00030ED0 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		413BBC2A28EE49DF0017B0AA /* Instructions for iOS.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "Instructions for iOS.rtf"; sourceTree = "<group>"; };
+		413BBC2C28EE4A880017B0AA /* Instructions for iOS 2.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "Instructions for iOS 2.rtf"; sourceTree = "<group>"; };
 		41A5CFD228EE39FA00030ED0 /* Augmented Library VIP iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Augmented Library VIP iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41A5CFD528EE39FA00030ED0 /* Augmented_Library_VIP_iOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Augmented_Library_VIP_iOSApp.swift; sourceTree = "<group>"; };
 		41A5CFD728EE39FA00030ED0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -37,6 +39,7 @@
 		41A5CFC928EE39FA00030ED0 = {
 			isa = PBXGroup;
 			children = (
+				413BBC2A28EE49DF0017B0AA /* Instructions for iOS.rtf */,
 				41A5CFD428EE39FA00030ED0 /* Augmented Library VIP iOS */,
 				41A5CFD328EE39FA00030ED0 /* Products */,
 			);
@@ -54,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				41A5CFD528EE39FA00030ED0 /* Augmented_Library_VIP_iOSApp.swift */,
-				413BBC2A28EE49DF0017B0AA /* Instructions for iOS.rtf */,
+				413BBC2C28EE4A880017B0AA /* Instructions for iOS 2.rtf */,
 				41A5CFD728EE39FA00030ED0 /* ContentView.swift */,
 				41A5CFD928EE39FB00030ED0 /* Assets.xcassets */,
 				41A5CFDB28EE39FB00030ED0 /* Preview Content */,
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41A5CFDD28EE39FB00030ED0 /* Preview Assets.xcassets in Resources */,
+				413BBC2D28EE4A880017B0AA /* Instructions for iOS 2.rtf in Resources */,
 				41A5CFDA28EE39FB00030ED0 /* Assets.xcassets in Resources */,
 				413BBC2B28EE49DF0017B0AA /* Instructions for iOS.rtf in Resources */,
 			);
